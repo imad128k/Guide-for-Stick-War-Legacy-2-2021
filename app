@@ -7,10 +7,10 @@
     "AdmobBanner" : "",
 	"AdmobInterstitial" : "",
 	
-	"FacebookbBanner" : "205961677945108_205962704611672",
-	"FacebookbSelectBanner" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"FacebookInterstitial" : "205961677945108_205964067944869",
-	"FacebookNative"    :  "205961677945108_205963244611618",
+	"FacebookbBanner" : "773568716930987_773569163597609",
+	"FacebookbSelectBanner" : "773568716930987_823048895316302",
+	"FacebookInterstitial" : "773568716930987_773569576930901",
+	"FacebookNative"    :  "773568716930987_773569776930881",
 	
 	
 	"Yodo1Advert" : "Met7stknNm9",
